@@ -1,0 +1,3 @@
+<FrameLayout ...>
+<FrameLayout android:id="@+id/fragment_container" ... />
+        </FrameLayout>

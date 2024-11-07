@@ -1,0 +1,4 @@
+<LinearLayout ...>
+<TextView android:id="@+id/counterText" ... />
+<Button android:id="@+id/incrementButton" android:text="Increment Counter" ... />
+        </LinearLayout>
